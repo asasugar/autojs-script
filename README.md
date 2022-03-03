@@ -1,7 +1,11 @@
-# autojs-版本基于4.1.1可自行前往🐔安评论区安装下载
+# autojs-版本 Andorid端自动运行脚本集合
 
 # autojs-script
-autojs执行脚本，基于你已经对autojs软件运行有一定了解的前提
+autojs执行脚本，基于你已经对autojs软件运行有一定了解的前提,以下脚本为了方便基本都是在打开需要执行脚本页面的前提下执行，没有写过多自动打开某个页面的逻辑，只关注于脚本执行逻辑，由于App的升级更新，基于控件的操作需要改变内容：如文本、id、描述等...可通过布局范围分析获得最新的控件信息
+
+# APK下载URL
+
+[Auto.js._4.1.0.Alpha5.apk](https://github.com/asasugar/autojs-script/releases/tag/APK)
 
 # 目录
 
